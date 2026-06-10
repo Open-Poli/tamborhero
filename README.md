@@ -1,4 +1,4 @@
-## 🚀 openPoli - Politécnico Modelo (https://open.ipm.edu.ar)
+## 🚀 openPoli - Politécnico Modelo (https://ipm.edu.ar)
 
 ## 📝 TamborHero EXPO Modelo 2024
 
